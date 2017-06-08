@@ -6,9 +6,9 @@ public class OddOrEven {
 			Scanner Scan = new Scanner (System.in);
 			int inum=  scan.nextInt();
 			if(inum%2 == 0){
-				System.out.println("odd");
+				System.out.println("even");
 			}else{
-				System.out.println("even");			
+				System.out.println("odd");			
 			}
 	}
 }
