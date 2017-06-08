@@ -1,1 +1,11 @@
 used for guvi
+import java.io.*;
+import java.util.*;
+
+public class Number {
+	public startic void main(String arg[]) {
+		BufferedReader bf = new BufferedReader(new InputStreamReader (System.in));
+		int inum = Integer.parseInt(bf.readLine());
+		System.out.println(inum);
+	}
+}
