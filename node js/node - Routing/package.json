@@ -1,0 +1,17 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "learning node js in youTube in net ninja",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "somanath",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
